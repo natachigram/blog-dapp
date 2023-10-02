@@ -10,9 +10,12 @@
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "^1.0.11",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-hot-toast": "^2.4.1",
     "viem": "^1.14.0",
     "wagmi": "^1.4.2"
   },
